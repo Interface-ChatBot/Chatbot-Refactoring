@@ -14,38 +14,38 @@
 <table align="center">
   <tr align="center">
     <td width="250">
-      <img src="https://github.com/Hstree-Dongjak-Narae/ChatBot-Narae/raw/main/image/main.jpg" alt="동아리 소개" width="250"><br>
+      <img src="./image/intro.jpg" alt="동아리 소개" width="250"><br>
       동아리 소개
     </td>
     <td width="250">
-      <img src="https://github.com/Hstree-Dongjak-Narae/ChatBot-Narae/raw/main/image/main.jpg" alt="행사 소개" width="250"><br>
+      <img src="./image/event.jpg" alt="행사 소개" width="250"><br>
       행사 소개
     </td>
     <td width="250">
-      <img src="https://github.com/Hstree-Dongjak-Narae/ChatBot-Narae/raw/main/image/main.jpg" alt="지원방법" width="250"><br>
+      <img src="./image/apply.jpg" alt="지원방법" width="250"><br>
       지원방법
     </td>
     <td width="250">
-      <img src="https://github.com/Hstree-Dongjak-Narae/ChatBot-Narae/raw/main/image/main.jpg" alt="동아리방" width="250"><br>
+      <img src="./image/clubroom.jpg" alt="동아리방" width="250"><br>
       동아리방
     </td>
 </table>
 <table align="center">
   <tr align="center">
     <td width="250">
-      <img src="https://github.com/Hstree-Dongjak-Narae/ChatBot-Narae/raw/main/image/main.jpg" alt="회비 안내" width="250"><br>
+      <img src="./image/dues.jpg" alt="회비 안내" width="250"><br>
       회비 안내
     </td>
     <td width="250">
-      <img src="https://github.com/Hstree-Dongjak-Narae/ChatBot-Narae/raw/main/image/main.jpg" alt="링크 안내" width="250"><br>
+      <img src="./image/link.jpg" alt="링크 안내" width="250"><br>
       링크 안내
     </td>
     <td width="250">
-      <img src="https://github.com/Hstree-Dongjak-Narae/ChatBot-Narae/raw/main/image/main.jpg" alt="전년도 작품" width="250"><br>
+      <img src="./image/results.jpg" alt="전년도 작품" width="250"><br>
       전년도 작품
     </td>
     <td width="250">
-      <img src="https://github.com/Hstree-Dongjak-Narae/ChatBot-Narae/raw/main/image/main.jpg" alt="도움말" width="250"><br>
+      <img src="./image/help.jpg" alt="도움말" width="250"><br>
       로그인 화면
     </td>
 </table>
