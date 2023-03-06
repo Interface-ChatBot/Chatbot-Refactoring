@@ -1,5 +1,5 @@
 # 인터페이스 챗봇 리팩토링
-<img src="https://user-images.githubusercontent.com/44095919/223133828-905449b1-968f-43bc-9690-a7fb3a1590c5.png" width="25%"><br>
+<img src="https://user-images.githubusercontent.com/44095919/223151070-8f681f54-cdc8-4f40-b019-567fc75eaef9.png" width="25%"><br>
 <b>▲인터페이스 챗봇 프로필</b>
 
 ## 팀원
