@@ -11,12 +11,51 @@
 3. 시나리오로 기능을 구현하는 경우 디자인이 직관적이며 스킬 서버가 필요없음
 
 ### 리팩토링 기능
-- 동아리 소개 (연혁/동아리명/로고/복지)
-- 회비 안내 (재학생/신입생 별 회비 안내)
-- 행사 소개 (프전/인커톤/스터디/봄MT/봄나들이)
-- 동아리 링크 안내 (Github/Notion/인스타/페이스북)
-- 지원 방법 (구글 폼 링크)
-- 동아리방 안내 (동아리방 사진 + 학생회관 위치 + 구조도 + 네이버 지도 링크)
-- 전년도 활동 소개 (프전 + 인커톤 작품들 소개)
-- 도움말 및 제네릭 메뉴 (챗봇 명령어 안내)
-- 명령어 유사도 검사 기능 (기존 기능 이용)
+- 동아리 소개 
+- 회비 안내 
+- 행사 소개 
+- 동아리 링크 안내 
+- 지원 방법 
+- 동아리방 안내 
+- 전년도 활동 소개 
+- 도움말 및 제네릭 메뉴 
+- 명령어 유사도 검사 기능
+
+<table align="center">
+  <tr align="center">
+    <td width="250">
+      <img src="https://github.com/Hstree-Dongjak-Narae/ChatBot-Narae/raw/main/image/main.jpg" alt="동아리 소개" width="250"><br>
+      동아리 소개
+    </td>
+    <td width="250">
+      <img src="https://github.com/Hstree-Dongjak-Narae/ChatBot-Narae/raw/main/image/main.jpg" alt="행사 소개" width="250"><br>
+      행사 소개
+    </td>
+    <td width="250">
+      <img src="https://github.com/Hstree-Dongjak-Narae/ChatBot-Narae/raw/main/image/main.jpg" alt="지원방법" width="250"><br>
+      지원방법
+    </td>
+    <td width="250">
+      <img src="https://github.com/Hstree-Dongjak-Narae/ChatBot-Narae/raw/main/image/main.jpg" alt="동아리방" width="250"><br>
+      동아리방
+    </td>
+</table>
+<table align="center">
+  <tr align="center">
+    <td width="250">
+      <img src="https://github.com/Hstree-Dongjak-Narae/ChatBot-Narae/raw/main/image/main.jpg" alt="회비 안내" width="250"><br>
+      회비 안내
+    </td>
+    <td width="250">
+      <img src="https://github.com/Hstree-Dongjak-Narae/ChatBot-Narae/raw/main/image/main.jpg" alt="링크 안내" width="250"><br>
+      링크 안내
+    </td>
+    <td width="250">
+      <img src="https://github.com/Hstree-Dongjak-Narae/ChatBot-Narae/raw/main/image/main.jpg" alt="전년도 작품" width="250"><br>
+      전년도 작품
+    </td>
+    <td width="250">
+      <img src="https://github.com/Hstree-Dongjak-Narae/ChatBot-Narae/raw/main/image/main.jpg" alt="도움말" width="250"><br>
+      로그인 화면
+    </td>
+</table>
